@@ -15,5 +15,8 @@
 5. Membuat Functions, Named arguments, Default parameter values, Functions without return, Lambda expressions
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/cefa1028-e069-4e7b-b156-a748dedb268e" />
 
+6. Membuat Class, Properties, Create instance, Access properties, Member functions, Data classes, Print as string, Compare instances
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fadabcd3-e378-4404-9753-74a4cb407606" />
+
 
 
