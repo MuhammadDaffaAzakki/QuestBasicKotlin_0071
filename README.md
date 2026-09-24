@@ -12,5 +12,8 @@
 4. Membuat Conditional expressions, Ranges, Loops
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8ba985bb-4bda-4594-9e6f-c82d442dda79" />
 
+5. Membuat Functions, Named arguments, Default parameter values, Functions without return, Lambda expressions
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/cefa1028-e069-4e7b-b156-a748dedb268e" />
+
 
 
