@@ -21,6 +21,10 @@
 7. Membuat Copy instance, Nullable Types
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d20f98e7-94dc-4212-8246-22b6f13ccaa7" />
 
+8. Membuat Check for null values, Use safe calls, Use Elvis operator
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/020fe26c-01cd-4827-a7be-34f4f0ae7358" />
+
+
 
 
 
