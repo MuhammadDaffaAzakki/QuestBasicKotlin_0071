@@ -9,3 +9,8 @@
 3. Membuat Map
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a42529b5-2892-4043-b0f2-1a7bb83c21e4" />
 
+4. Membuat Conditional expressions, Ranges, Loops
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8ba985bb-4bda-4594-9e6f-c82d442dda79" />
+
+
+
