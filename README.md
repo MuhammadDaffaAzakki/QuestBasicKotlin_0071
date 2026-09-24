@@ -18,5 +18,10 @@
 6. Membuat Class, Properties, Create instance, Access properties, Member functions, Data classes, Print as string, Compare instances
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fadabcd3-e378-4404-9753-74a4cb407606" />
 
+7. Membuat Copy instance, Nullable Types
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d20f98e7-94dc-4212-8246-22b6f13ccaa7" />
+
+
+
 
 
