@@ -6,3 +6,6 @@
 2. Membuat List Dan Set
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a2e6824f-dbc7-4f93-b2df-e471d8bcff97" />
 
+3. Membuat Map
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a42529b5-2892-4043-b0f2-1a7bb83c21e4" />
+
